@@ -10,6 +10,6 @@ MULTITHREADED MERGE SORT:
 multi-threading is way to improve parallelism by running the threads simultaneously in different cores of your processor. 
 
 TIME COMPLEXITY COMPARISON: 
-    The time complexity of merge sort is O(n*log n).  The time complexity of Multithreaded Merge sort is O(n*log n).O(n log2 n)
+    The time complexity of merge sort is O(n*log n). The time complexity of Multithreaded Merge sort is O(n log2 n).
 Running the algorithm in parallel does not become efficient until the size of the data sets reach 2 ^16.
 
