@@ -2,6 +2,7 @@
 #include <pthread.h>
 #include <stdlib.h>
 #include <time.h>
+
 #define size 20
 #define thread_size 4
 using namespace std;
